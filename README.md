@@ -1,0 +1,2 @@
+# gitignore
+premier projet git 

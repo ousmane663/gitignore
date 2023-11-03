@@ -1,0 +1,7 @@
+Présentation de C
+
+C est un langage de programmation à usage général qui existe depuis près de 50 ans.
+C a été utilisé pour tout écrire, des systèmes d'exploitation (y compris Windows et bien d'autres) aux programmes complexes tels que l'interpréteur Python, Git, la base de données Oracle, etc.
+La polyvalence de C est de par sa conception. C'est un langage de bas niveau qui est étroitement lié au fonctionnement des machines tout en étant facile à apprendre.
+Comprendre le fonctionnement de la mémoire de l'ordinateur est un aspect important du langage de programmation C.
+
